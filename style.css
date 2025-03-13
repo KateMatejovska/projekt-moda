@@ -85,9 +85,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .shop__item {
-  display: flex;
   flex-basis: 25%;
-  flex-direction: column;
 }
 
 .shop__image {
